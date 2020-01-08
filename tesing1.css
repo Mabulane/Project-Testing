@@ -1,0 +1,17 @@
+body{mergin:0;
+		padding:0;
+		background:#F5F4EF url('tutlogo.jpg');
+		background:cover;
+}
+#content{
+	
+	background: #fff;
+	margin-bottom: 2em;
+	overflow: hidden;
+	padding: 20px 20px;
+	width: 760px;
+	
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	top:100px;}
